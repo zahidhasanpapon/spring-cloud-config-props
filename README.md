@@ -26,3 +26,5 @@ Spring Cloud Config
     }
   ]
 }
+
+Resource: https://spring.io/guides/gs/centralized-configuration/
