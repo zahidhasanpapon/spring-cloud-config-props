@@ -1,9 +1,9 @@
-spring:
-  datasource:
-    url: jdbc:postgresql://172.17.0.3:5432/combined_rd_db
-    username: postgres
-    password: localpostgrespass
+#spring:
+#  datasource:
+#    url: jdbc:postgresql://172.17.0.3:5432/combined_rd_db
+#    username: postgres
+#    password: localpostgrespass
 
-flyway:
-  enabled: true
-  locations: classpath:db/migration
+#flyway:
+#  enabled: true
+#  locations: classpath:db/migration
