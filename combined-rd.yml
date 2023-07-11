@@ -1,1 +1,9 @@
-key: value
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/combined_rd_db
+    username: postgres
+    password: localpostgrespass
+
+flyway:
+  enabled: true
+  locations: classpath:db/migration
