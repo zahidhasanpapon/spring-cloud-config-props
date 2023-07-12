@@ -4,6 +4,6 @@ spring:
     username: zahid
     password: localpostgrespass
 
-flyway:
-  enabled: true
-  locations: classpath:db/migration
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
