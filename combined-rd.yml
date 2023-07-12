@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/combined_rd_db
-    username: postgres
+    username: zahid
     password: localpostgrespass
 
 flyway:
